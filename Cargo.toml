@@ -18,7 +18,7 @@ serde_json = "1.0.56"
 serde_yaml = "0.8.13"
 solana-clap-utils = { git = "https://github.com/solindex/clap-utils.git", version = "=1.8.14" }
 solana-cli-config = { git = "https://github.com/solindex/cli-config.git", version = "=1.8.14" }
-solana-exchange-program = { pgit = "https://github.com/solindex/exchange-program.git", version = "=1.8.14" }
+solana-exchange-program = { git = "https://github.com/solindex/exchange-program.git", version = "=1.8.14" }
 solana-ledger = { git = "https://github.com/solindex/ledger.git", version = "=1.8.14" }
 solana-logger = { git = "https://github.com/solindex/logger.git", version = "=1.8.14" }
 solana-runtime = { git = "https://github.com/solindex/runtime.git", version = "=1.8.14" }
